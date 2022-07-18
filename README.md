@@ -6,4 +6,5 @@ Built using Android Studio (XML and Java).
 
 App Features:
 - Bluetooth data reception is done on a different thread, allowing the app to remain responsive.
-- Manages audio in the app using the MediaPlayer API whenever a new sign is displayed on the UI.
+- UI is updated with text and image of the ASL sign corresponding to the data recieved.
+- Plays an audio file of the ASL sign corresponding to the data recieved. Audio in the app is managed using the MediaPlayer API.
