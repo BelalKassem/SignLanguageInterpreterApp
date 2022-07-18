@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Belal\\Desktop\\3rd year project\\Sending-and-Receiving-Data-with-Bluetooth-master\\Bluetooth-Communication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Belal\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\bf27f59ec8a70db810d3e2e67dff5c0a\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bf27f59ec8a70db810d3e2e67dff5c0a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\40bc89b5636d028d2fc8d789e92b2fb4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\58500f674a77b5963ad1ef2e02b6e038\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\94e7371386492e1767eacc93443f0534\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\9fbb4920318c56bacff8cbcf9a8671bd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5c14bb9b6363e29f6224e335d1ee83ef\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\598af90fbbc7d3d32875917571a29d15\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\5502aebb87b87234a8fe7e1abd838413\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\246446f0941bb0c537668293c0b249ae\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:3:11-61
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:6:19-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:13:5-26:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bf27f59ec8a70db810d3e2e67dff5c0a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bf27f59ec8a70db810d3e2e67dff5c0a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\40bc89b5636d028d2fc8d789e92b2fb4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\40bc89b5636d028d2fc8d789e92b2fb4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\58500f674a77b5963ad1ef2e02b6e038\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\58500f674a77b5963ad1ef2e02b6e038\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\94e7371386492e1767eacc93443f0534\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\94e7371386492e1767eacc93443f0534\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\9fbb4920318c56bacff8cbcf9a8671bd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\9fbb4920318c56bacff8cbcf9a8671bd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5c14bb9b6363e29f6224e335d1ee83ef\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5c14bb9b6363e29f6224e335d1ee83ef\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\598af90fbbc7d3d32875917571a29d15\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\598af90fbbc7d3d32875917571a29d15\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\5502aebb87b87234a8fe7e1abd838413\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\5502aebb87b87234a8fe7e1abd838413\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\246446f0941bb0c537668293c0b249ae\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\246446f0941bb0c537668293c0b249ae\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.user.bluetooth_communication.MainActivity
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bf27f59ec8a70db810d3e2e67dff5c0a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bf27f59ec8a70db810d3e2e67dff5c0a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\40bc89b5636d028d2fc8d789e92b2fb4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\40bc89b5636d028d2fc8d789e92b2fb4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\58500f674a77b5963ad1ef2e02b6e038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\58500f674a77b5963ad1ef2e02b6e038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\94e7371386492e1767eacc93443f0534\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\94e7371386492e1767eacc93443f0534\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\9fbb4920318c56bacff8cbcf9a8671bd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\9fbb4920318c56bacff8cbcf9a8671bd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5c14bb9b6363e29f6224e335d1ee83ef\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\5c14bb9b6363e29f6224e335d1ee83ef\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\598af90fbbc7d3d32875917571a29d15\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\598af90fbbc7d3d32875917571a29d15\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\5502aebb87b87234a8fe7e1abd838413\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\5502aebb87b87234a8fe7e1abd838413\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\246446f0941bb0c537668293c0b249ae\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\246446f0941bb0c537668293c0b249ae\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Belal\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\bf27f59ec8a70db810d3e2e67dff5c0a\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Belal\Desktop\3rd year project\Sending-and-Receiving-Data-with-Bluetooth-master\Bluetooth-Communication\app\src\main\AndroidManifest.xml

@@ -1,0 +1,13 @@
+#Wed Apr 10 14:59:12 EDT 2019
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\Belal\\Desktop\\Sending-and-Receiving-Data-with-Bluetooth-master\\Bluetooth-Communication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\134
+base.2=C\:\\Users\\Belal\\Desktop\\Sending-and-Receiving-Data-with-Bluetooth-master\\Bluetooth-Communication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\131
+base.1=C\:\\Users\\Belal\\Desktop\\Sending-and-Receiving-Data-with-Bluetooth-master\\Bluetooth-Communication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\132
+base.0=C\:\\Users\\Belal\\Desktop\\Sending-and-Receiving-Data-with-Bluetooth-master\\Bluetooth-Communication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\133
